@@ -62,6 +62,7 @@ The game features two characters, **Mage** and **Warrior**, each with unique abi
 ### *Choose a Move*  
 
 Mage Move
+
 ![Mage Move](https://github.com/user-attachments/assets/bd99081f-7154-419e-b252-5dd3a3ad3c21) 
 
 if the Mage chose Special Power:
