@@ -41,6 +41,7 @@ The game features two characters, **Mage** and **Warrior**, each with unique abi
 ---
 
 ## 📂 Project Structure
+
 src/
  ├── characters/
  │     ├── Character.java   # Abstract base class
